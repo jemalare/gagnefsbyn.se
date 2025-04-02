@@ -19,7 +19,8 @@ Vägsamfällighetsföreningen ansvarar för vägnätet i Nordåker, Gagnefsbyn o
 
 # Dokument
 
+- [Vägföreningens årsmöte 2025](/assets/doc/PROTOKOLL FÖRT VID ÅRSMÖTE 20250306.pdf)
+- [Vägföreningens åtgärdslista](/assets/doc/Åtgärdslista Nordåker-Gagnefsbyns Vägsamhällighetsförening.xlsx)
 - [Vägföreningens årsmöte 2024](/assets/doc/PROTOKOLL FÖRT VID ÅRSMÖTE 20230314.pdf)
-- [Vägföreningens åtgärdslista](/assets/doc/20240130-Åtgärdslista%20Nordåker-Gagnefsbyns%20Vägsamhällighetsförening.xlsx)
 - [Vägföreningens årsmöte 2023](/assets/doc/20230316-Vägföreningens-årsmöte.pdf)
-- [Vägföreningens årsmöte 2022](/assets/doc/2022/2022-03-17%20V%C3%A4gf%C3%B6reningens%20%C3%A5rsm%C3%B6tesprotokoll%202022.pdf)
+- [Vägföreningens årsmöte 2022](/assets/doc/2022/2022-03-17 Vägföreningens årsmötesprotokoll 2022.pdf)
