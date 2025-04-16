@@ -17,9 +17,7 @@ Såväl badplatsen som lekplatsen upplåts av privatpersoner för vårt
 gemensamma bruk. En del lekredskap på lekplatsen tillhandahålls av
 kommunen. Sedan hjälps vi åt med gräsklippning och allmän skötsel.
 
-<!--
-[Klicka här för årets gräsklippningsschema](/assets/pdf/20220425-Gräsklippningsschema.pdf).
--->
+[Klicka här för årets gräsklippningsschema](/assets/pdf/20250416T142414--gräsklippningsschema__byföreningen.pdf).
 
 Byföreningen ansvarar för drift och underhåll av bystugan. Detta
 finansieras av medlemsavgiften, uthyrning av bystugan, samt intäkter
