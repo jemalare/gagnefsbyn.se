@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Bystugan är vår samlingslokal och du får gärna [hyra den](bystugan) för fest eller möten!
   Ni kan prenumerera på våra e-postutskick som rör aktiviteter i
   föreningen, kontakta info@gagnefsbyn.se så lägger vi till er på listan.
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 # baseurl: /
 permalink: /posts/:year-:month-:title/
 
